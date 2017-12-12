@@ -13,7 +13,7 @@
       </div>
 
 
-<!-- Feed in line graph with two lines. Custom field must be a number field. -->
+<!-- Feed in line graph with two lines. Custom field must be a repeater, with a sub number field. -->
 
 <script>
   var dataLine = {
